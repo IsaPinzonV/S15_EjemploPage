@@ -8,4 +8,7 @@ function draw() {
   fill(0);
   textSize(15);
   text("Isabella Pinzon",50,50);
+
+  fill(0);
+  ellipse(200,200,50,50);
 }
